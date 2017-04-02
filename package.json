@@ -1,20 +1,82 @@
-
 {
-  "name": "react-native-image-matrix",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "react-native-image-matrix@^1.0.0",
+        "scope": null,
+        "escapedName": "react-native-image-matrix",
+        "name": "react-native-image-matrix",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "/Users/Do7a/projects/BizzifyEvents"
+    ]
+  ],
+  "_from": "react-native-image-matrix@>=1.0.0 <2.0.0",
+  "_id": "react-native-image-matrix@1.0.1",
+  "_inCache": true,
+  "_location": "/react-native-image-matrix",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-image-matrix-1.0.1.tgz_1490874233174_0.1796969473361969"
   },
+  "_npmUser": {
+    "name": "do7a",
+    "email": "mohamed.mamdouh.do@gmail.com",
+    "url" : "https://github.com/mamdouh-mowesolutions/react-native-image-matrix"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-image-matrix@^1.0.0",
+    "scope": null,
+    "escapedName": "react-native-image-matrix",
+    "name": "react-native-image-matrix",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-image-matrix/-/react-native-image-matrix-1.0.1.tgz",
+  "_shasum": "e3a06c3807b887e41f93abb676326dc428107d71",
+  "_shrinkwrap": null,
+  "_spec": "react-native-image-matrix@^1.0.0",
+  "_where": "/Users/Do7a/projects/BizzifyEvents",
+  "author": "",
+  "dependencies": {},
+  "description": "## Getting started",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e3a06c3807b887e41f93abb676326dc428107d71",
+    "tarball": "https://registry.npmjs.org/react-native-image-matrix/-/react-native-image-matrix-1.0.1.tgz"
+  },
+  "gitHead": "cae962d204a32561c6e5a8aad6ce399875dd339f",
   "keywords": [
     "react-native"
   ],
-  "author": "",
   "license": "",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "do7a",
+      "email": "mohamed.mamdouh.do@gmail.com"
+    }
+  ],
+  "name": "react-native-image-matrix",
+  "optionalDependencies": {},
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
 }
